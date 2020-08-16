@@ -1,6 +1,6 @@
 # GSOC-Realtime-Focus-Peaking
 The VHDL kernel implements Realtime focus peaking algorithm on a stream of incoming pixels <br/>
-Implementation: Zedboard, Organization: Apertus - Google Summer of Code 2018 <br/>
+Implementation: Zedboard (Xilinx ZYNQ-SoC), Organization: Apertus - Google Summer of Code 2018 <br/>
 Project overview: https://medium.com/@rahul.vinus/google-summer-of-code-2018-c65625c65f97  <br/>
 (1) GSOC_18_presentation.pdf gives a detailed description of the project <br/>
 (2) kernel_top.vhd is the top level module of the focus peaking module<br/>
